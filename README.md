@@ -1,7 +1,7 @@
 # NLP
 Natural language processing from AGH university
 
-# Regular expressions (aka regexps)
+# 1. Regular expressions (aka regexps)
 
 The task is concentrated on using regular expressions for extracting basic information from textual data. 
 You will get more familiar with the regexp features that are particularly important in natural language processing.
@@ -51,7 +51,7 @@ Task objectives:
    following **o zmianie** expression.
 1. Plot results 4-7 using a bar chart.
 
-# Lemmatization and full text search (FTS)
+# 2. Lemmatization and full text search (FTS)
 
 The task is concentrated on using full text search engine (ElasticSearch) to perform basic search
 operations in a text corpus.
@@ -81,7 +81,7 @@ operations in a text corpus.
    from the previous task.
 
 
-# Levenshtein distance and spelling corrections
+# 3. Levenshtein distance and spelling corrections
 
 The task introduces the Levenshtein distance - a measure that is useful in tasks such as approximate string matching.
 
